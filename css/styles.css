@@ -1,0 +1,46 @@
+#market {
+  display: none;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-weight: bolder;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+}
+
+.container {
+  background-color: purple;
+}
+
+body {
+  background-color: lightgreen;
+}
+
+.form-group {
+  text-align: left;
+  color: black;
+  background-color: teal;
+}
+
+p {
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+  font-style: italic;
+}
+
+.market {
+  font-weight: bolder;
+}
